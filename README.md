@@ -31,3 +31,20 @@
    31  ll
    32  cd pauy
    33  git push -u origin main
+
+    git init
+    2  git clone https://github.com/aniloppaar/radmir.git
+    3  ls
+    4  cd radmir
+    5  npx create-strapi-app radmir --quickstart
+    6  cd C:/Users/is/AppData/Roaming
+    7  mkdir npm
+    8  ..
+    9  ls
+   10  ..
+   11  cd radmir
+   12  cd ..
+   13  cd ..
+   14  ls
+   15  cd radmir
+   16  npx create-strapi-app radmir --quickstart
